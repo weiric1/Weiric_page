@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "page",
+			"path": "../Github/page"
+		}
+	],
+	"settings": {}
+}
